@@ -7,6 +7,7 @@
     </div>
     <div id="pageTopRest">
       <div id="menu1">
+        <i class="fa fa-home"></i>
         <div>
           <a href="#">Sign Up / Log In</a>
         </div>
